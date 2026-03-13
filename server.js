@@ -77,7 +77,6 @@ const whatsappClient = new Client({
     clientId: "colorclass-ai",
   }),
   puppeteer: {
-    executablePath: process.env.CHROME_BIN || undefined,
     headless: true,
     protocolTimeout: 120000,
     args: ["--no-sandbox", "--disable-setuid-sandbox"],
