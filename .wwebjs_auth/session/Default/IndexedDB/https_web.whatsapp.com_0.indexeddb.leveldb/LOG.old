@@ -1,0 +1,56 @@
+2026/03/12-19:36:26.573 7d38 Reusing MANIFEST C:\Users\rinoc\OneDrive - il bello delle donne sas\colorclass-ai-clean\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/12-19:36:26.577 7d38 Recovering log #3846
+2026/03/12-19:36:26.623 7d38 Reusing old log C:\Users\rinoc\OneDrive - il bello delle donne sas\colorclass-ai-clean\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/003846.log 
+2026/03/13-08:59:00.707 7d38 Level-0 table #3870: started
+2026/03/13-08:59:01.697 7d38 Level-0 table #3870: 1444907 bytes OK
+2026/03/13-08:59:01.703 7d38 Delete type=0 #3846
+2026/03/13-09:00:34.577 7d38 Compacting 1@0 + 0@1 files
+2026/03/13-09:00:34.692 7d38 Generated table #3871@0: 20412 keys, 528393 bytes
+2026/03/13-09:00:34.702 7d38 Generated table #3872@0: 1782 keys, 57921 bytes
+2026/03/13-09:00:34.703 7d38 Compacted 1@0 + 0@1 files => 586314 bytes
+2026/03/13-09:00:34.704 7d38 compacted to: files[ 0 2 25 0 0 0 0 ]
+2026/03/13-09:03:46.296 7d38 Compacting 1@1 + 8@2 files
+2026/03/13-09:03:46.481 7d38 Generated table #3873@1: 58426 keys, 2211375 bytes
+2026/03/13-09:03:46.674 7d38 Generated table #3874@1: 33571 keys, 2202699 bytes
+2026/03/13-09:03:46.835 7d38 Generated table #3875@1: 55410 keys, 2221088 bytes
+2026/03/13-09:03:46.915 7d38 Generated table #3876@1: 8758 keys, 2155898 bytes
+2026/03/13-09:03:47.004 7d38 Generated table #3877@1: 2021 keys, 2139614 bytes
+2026/03/13-09:03:47.072 7d38 Generated table #3878@1: 2133 keys, 2138919 bytes
+2026/03/13-09:03:47.252 7d38 Generated table #3879@1: 33578 keys, 2244041 bytes
+2026/03/13-09:03:47.392 7d38 Generated table #3880@1: 35425 keys, 2061186 bytes
+2026/03/13-09:03:47.392 7d38 Compacted 1@1 + 8@2 files => 17374820 bytes
+2026/03/13-09:03:47.394 7d38 compacted to: files[ 0 1 25 0 0 0 0 ]
+2026/03/13-09:03:47.395 7d38 Delete type=2 #3850
+2026/03/13-09:03:47.395 7d38 Delete type=2 #3851
+2026/03/13-09:03:47.395 7d38 Delete type=2 #3852
+2026/03/13-09:03:47.396 7d38 Delete type=2 #3853
+2026/03/13-09:03:47.396 7d38 Delete type=2 #3854
+2026/03/13-09:03:47.396 7d38 Delete type=2 #3855
+2026/03/13-09:03:47.397 7d38 Delete type=2 #3856
+2026/03/13-09:03:47.397 7d38 Delete type=2 #3857
+2026/03/13-09:03:47.397 7d38 Delete type=2 #3870
+2026/03/13-09:03:47.397 7d38 Delete type=2 #3871
+2026/03/13-09:07:55.259 7d38 Compacting 1@1 + 10@2 files
+2026/03/13-09:07:55.377 7d38 Generated table #3881@1: 77173 keys, 2217442 bytes
+2026/03/13-09:07:55.502 7d38 Generated table #3882@1: 102313 keys, 2251076 bytes
+2026/03/13-09:07:55.638 7d38 Generated table #3883@1: 101346 keys, 2250969 bytes
+2026/03/13-09:07:55.770 7d38 Generated table #3884@1: 101559 keys, 2250984 bytes
+2026/03/13-09:07:55.902 7d38 Generated table #3885@1: 101766 keys, 2252193 bytes
+2026/03/13-09:07:56.038 7d38 Generated table #3886@1: 101442 keys, 2250974 bytes
+2026/03/13-09:07:56.179 7d38 Generated table #3887@1: 101954 keys, 2250920 bytes
+2026/03/13-09:07:56.308 7d38 Generated table #3888@1: 102624 keys, 2251640 bytes
+2026/03/13-09:07:56.432 7d38 Generated table #3889@1: 101942 keys, 2250459 bytes
+2026/03/13-09:07:56.541 7d38 Generated table #3890@1: 79785 keys, 1984515 bytes
+2026/03/13-09:07:56.542 7d38 Compacted 1@1 + 10@2 files => 22211172 bytes
+2026/03/13-09:07:56.543 7d38 compacted to: files[ 0 0 25 0 0 0 0 ]
+2026/03/13-09:07:56.544 7d38 Delete type=2 #3858
+2026/03/13-09:07:56.544 7d38 Delete type=2 #3859
+2026/03/13-09:07:56.544 7d38 Delete type=2 #3860
+2026/03/13-09:07:56.544 7d38 Delete type=2 #3861
+2026/03/13-09:07:56.544 7d38 Delete type=2 #3862
+2026/03/13-09:07:56.544 7d38 Delete type=2 #3863
+2026/03/13-09:07:56.545 7d38 Delete type=2 #3864
+2026/03/13-09:07:56.545 7d38 Delete type=2 #3865
+2026/03/13-09:07:56.545 7d38 Delete type=2 #3866
+2026/03/13-09:07:56.545 7d38 Delete type=2 #3867
+2026/03/13-09:07:56.545 7d38 Delete type=2 #3872
